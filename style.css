@@ -281,7 +281,7 @@ footer .five i:hover {
     footer {
         grid-auto-flow: row;
         justify-content: flex-start;
-        padding-left: 40px;
+        padding: 200px 0 50px 40px;
     }
     footer img {
         grid-row: initial;
