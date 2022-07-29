@@ -254,6 +254,7 @@ footer .two {
     display: grid;
     grid-template-columns: auto auto;
     gap: 10px;
+    justify-content: flex-start;
 }
 footer a {
     all: initial;
@@ -279,6 +280,8 @@ footer .five i:hover {
 @media (max-width: 600px){
     footer {
         grid-auto-flow: row;
+        justify-content: flex-start;
+        padding-left: 40px;
     }
     footer img {
         grid-row: initial;
@@ -289,6 +292,9 @@ footer .five i:hover {
     footer .four,
     footer .five {
         grid-row: initial;
+    }
+    footer .five {
+        justify-self: center;
     }
 }
 #alert {
