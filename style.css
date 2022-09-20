@@ -258,6 +258,7 @@ footer .two {
 }
 footer a {
     all: initial;
+    width: 80px;
     color: #fff;
     text-transform: capitalize;
     margin-bottom: 10px;
@@ -268,9 +269,8 @@ footer a:hover {
 }
 footer .five i {
     margin: 0 10px;
-    border: 1px solid #fff;
     padding: 5px;
-    border-radius: 50%;
+    font-size: 2rem;
 }
 footer .five i:hover {
     cursor: pointer;
@@ -278,11 +278,9 @@ footer .five i:hover {
 }
 footer .five .fa-facebook:hover {
     color: #4267B2;
-    border-color: #4267B2;
 }
-footer .five .fa=square-twitter:hover {
+footer .five .fa-square-twitter:hover {
     color: #1da1f2;
-    border-color: #1da1f2;
 }
 footer .five .fa-square-instagram:hover {
     color: transparent;
