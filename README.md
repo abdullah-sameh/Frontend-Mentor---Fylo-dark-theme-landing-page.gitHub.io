@@ -3,11 +3,8 @@
 ![Design preview for the Fylo dark theme landing page challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
-### This link to website:
+### This link to website: (hit CTRL on keyboard when u click on the link)
 > https://abdullah-sameh.github.io/Frontend-Mentor---Fylo-dark-theme-landing-page.gitHub.io/
-
-> <a href="https://abdullah-sameh.github.io/Frontend-Mentor---Fylo-dark-theme-landing-page.gitHub.io/" target="_blank">external link</a>
-
 
 Thanks for checking out this front-end coding challenge.
 
